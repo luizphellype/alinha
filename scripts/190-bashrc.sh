@@ -24,3 +24,4 @@ function bkp() {
 
 cp /root/.bash_aliases /etc/skel/.bash_aliases
 chmod +r /etc/skel/.bash_aliases
+swdwdwd
